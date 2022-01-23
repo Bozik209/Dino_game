@@ -2,7 +2,7 @@
 
 
 
-Dino game build in JS [Dino-game](dino-game-1388.netlify.app).
+Dino game build in JS [Dino-game](https://dino-game-1388.netlify.app/).
 
 
 
