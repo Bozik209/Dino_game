@@ -1,7 +1,8 @@
 # Dino_game
-Dino game build in JS
 
-dino-game-1388.netlify.app
+
+
+Dino game build in JS [Dino-game](dino-game-1388.netlify.app).
 
 
 
